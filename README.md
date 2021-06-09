@@ -1,19 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Roi meu nick é clust3r e trabalho como <strong>back-end developer</strong>.<br>
-  Atualmente não estou em nenhum projeto importante.
-</p>
-
-
-<p align="left">
-  💼 Ferramentas: <strong>XAMPP, Visual Studio Code e Mysql Workbench</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
