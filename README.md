@@ -24,3 +24,5 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="#" alt=".">
 </p> 
+
+ [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=dr4gun0v&hide=html&layout=compact&theme=radical)](https://github.com/iuricode/)
