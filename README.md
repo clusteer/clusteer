@@ -25,4 +25,4 @@
   <a href="#" alt=".">
 </p> 
 
- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=dr4gun0v&hide=html&layout=compact&theme=radical)](https://github.com/iuricode/)
+ [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=dr4gun0v&hide=html&layout=compact&theme=midnight-purple)](https://github.com/dr4gun0v/)
