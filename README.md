@@ -24,5 +24,5 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="#" alt=".">
 </p> 
-  
-[![dr4gun0v](https://github-readme-stats.vercel.app/api/top-langs/?username=dr4gun0v&hide=html&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/dr4gun0v/)
+ 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
